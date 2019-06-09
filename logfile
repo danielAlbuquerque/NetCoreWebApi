@@ -1,0 +1,7 @@
+2019-06-09 12:08:44.898 -03 [39429] LOG:  listening on IPv6 address "::1", port 5432
+2019-06-09 12:08:44.898 -03 [39429] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-06-09 12:08:44.899 -03 [39429] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2019-06-09 12:08:45.500 -03 [39430] LOG:  database system was shut down at 2019-06-01 11:49:35 -03
+2019-06-09 12:08:45.764 -03 [39429] LOG:  database system is ready to accept connections
+2019-06-09 12:19:28.851 -03 [45154] FATAL:  database "Todos" does not exist
+2019-06-09 12:19:28.914 -03 [45155] FATAL:  database "Todos" does not exist
